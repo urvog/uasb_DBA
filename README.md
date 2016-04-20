@@ -3,21 +3,21 @@
 
 ###GIT HUB
 
-1. Crear un usuario en http://www.github.com
+(1) Crear un usuario en http://www.github.com
 
-2. Ingresar y logearse con su cuenta a Github.
+(2) Ingresar y logearse con su cuenta a Github.
 
-3. Hacer un fork del repositorio: https://github.com/urvog/uasb_DBA
+(3) Hacer un fork del repositorio: https://github.com/urvog/uasb_DBA
 
-4. Obtener y actualizar el repositorio
+(4) Obtener y actualizar el repositorio
 
-5. Revisar la documentación y los datos disponibles para continuar con el trabajo.
+(5) Revisar la documentación y los datos disponibles para continuar con el trabajo.
 
 ###POSTGRESQL
 
-6. Crear un usuario "admin_user" que será el administrador de nuestra base datos.
+(6) Crear un usuario "admin_user" que será el administrador de nuestra base datos.
 
-7. Otorgarle al usuario "admin_user" los permisos para crear una base de datos y crear usuarios
+(7) Otorgarle al usuario "admin_user" los permisos para crear una base de datos y crear usuarios
 
 8. Crear la base de datos "musicdb" cuyo propietario es el usuario "admin_user", considerar el tipo de codificación
 de la base de datos.
@@ -36,7 +36,7 @@ de la base de datos.
 12. Importar los datos a cada tabla de acuerdo a los datos contenidos en la carpeta "RAW CSV" del repositorio de Github.
 Utilizar la herramienta de "COPY" en Postgres
 
-13. Crear las siguientes vistas usando solo lenguaje SQL:
+13. Crear las siguientes vistas usando lenguaje SQL:
 	- Listar el top 5 de las canciones más vendidas por genero
 	- Listar los 3 clientes que han comprado más canciones
 	- Listar las 20 canciones que tienen mayor duración agrupados por tipo de medio
@@ -65,7 +65,7 @@ en un archivo con el nombre "reindex_music.txt".
 
 21. Subir los archivo "vacumm_music.txt" y "reindex_music.txt" al repositorio Github.
 
-19. Crear un script para generar un backup de la base de datos, el script deberá contruir el archivo con el
+19. Crear un script para generar un backup de la base de datos, el script deberá construir el archivo con el
 nombre del "archivo + un formato de fecha y hora".
 
 20. Subir el script a Github.
