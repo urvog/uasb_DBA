@@ -23,9 +23,9 @@
 de la base de datos.
 
 9. Crear tres usuarios:
-	uasb_user		usuario que realiza solo consultas a los datos
-	operator_user		usuario que realiza operaciones sobre las tablas
-	test_user		usuario que realiza solo consultas a vistas de la base de datos
+	- uasb_user		usuario que realiza solo consultas a los datos
+	- operator_user		usuario que realiza operaciones sobre las tablas
+	- test_user		usuario que realiza solo consultas a vistas de la base de datos
 
 10. Asignar los permisos para que los usuarios creados sólo tengan acceso a la base de datos "musicdb".
 
