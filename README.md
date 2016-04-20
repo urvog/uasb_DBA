@@ -17,7 +17,7 @@
 
 6. Crear un usuario "admin_user" que será el administrador de nuestra base datos.
 
-7. Otorgarle al usuario "admin_user" los permisos para crear una base de datos y crear usuarios;
+7. Otorgarle al usuario "admin_user" los permisos para crear una base de datos y crear usuarios
 
 8. Crear la base de datos "musicdb" cuyo propietario es el usuario "admin_user", considerar el tipo de codificación
 de la base de datos.
@@ -31,7 +31,10 @@ de la base de datos.
 
 11. Crear las tablas de acuerdo al MER proporcionado. Emplear la consola "psql" para realizar este trabajo.
 
+![MER Logo](mer_BD.png)
+
 12. Importar los datos a cada tabla de acuerdo a los datos contenidos en la carpeta "RAW CSV" del repositorio de Github.
+
 
 13. Crear las siguientes vistas usando solo lenguaje SQL:
 	- Listar el top 5 de las canciones más vendidas por genero
