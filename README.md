@@ -34,11 +34,11 @@ de la base de datos.
 ![MER Logo](mer_BD.png)
 
 12. Importar los datos a cada tabla de acuerdo a los datos contenidos en la carpeta "RAW CSV" del repositorio de Github.
-
+Utilizar la herramienta de "COPY" en Postgres
 
 13. Crear las siguientes vistas usando solo lenguaje SQL:
 	- Listar el top 5 de las canciones más vendidas por genero
-	- Listar los tres clientes que han comprado más canciones
+	- Listar los 3 clientes que han comprado más canciones
 	- Listar las 20 canciones que tienen mayor duración agrupados por tipo de medio
 	- Listar total ventas por mes agrupadas por el vendedor
 
@@ -63,11 +63,11 @@ archivo con nombre "vacumm_music.txt".
 22. Proceder con el commando "reindexdb" para la reindexación de la base de datos y toda la información generada guardarla 
 en un archivo con el nombre "reindex_music.txt".
 
-21. Subir los archivo "vacumm_music.txt" y "reindex_music" al repositorio Github.
+21. Subir los archivo "vacumm_music.txt" y "reindex_music.txt" al repositorio Github.
 
-19. Crear un script para generar un backup de la base de datos, el script deberá construir el archivo con el
+19. Crear un script para generar un backup de la base de datos, el script deberá contruir el archivo con el
 nombre del "archivo + un formato de fecha y hora".
 
 20. Subir el script a Github.
 
-21. Utilizar .pgpass/cron para construir backups automatizados (TAREA)
+21. Utilizar las herramientas .pgpass/cron para construir backups automatizados (TAREA)
