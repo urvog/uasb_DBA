@@ -1,7 +1,7 @@
-#PRACTICA GUIADA
+#PRACTICA 
 ##ADMINSTRACIÓN DE BASE DE DATOS CON POSGRESQL.
 
-###GIT HUB
+###GITHUB
 
 1. Crear un usuario en http://www.github.com
 
@@ -33,6 +33,8 @@ de la base de datos.
 
 ![MER Logo](mer_BD.png)
 
+###CONSTRUYENDO LA BASE DE DATOS Y CARGANDO DATOS
+
 12. Importar los datos a cada tabla de acuerdo a los datos contenidos en la carpeta "RAW CSV" del repositorio de Github.
 Utilizar la herramienta de "COPY" en Postgres
 
@@ -44,6 +46,7 @@ Utilizar la herramienta de "COPY" en Postgres
 
 14. Asignar los permisos necesarios a cada usuario de acuerdo a la descripción en el punto 4.
 
+###MANTENIMIENTO
 15. Crear dos backups de la base de datos
 	- En formato plano con nombre de archivo "bk_musicdb_usergithub"
 	- En formato Postgresl con el nombre de archivo "bk_musicdb_usergithub"
