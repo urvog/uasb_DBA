@@ -1,0 +1,252 @@
+"InvoiceId";"CustomerId";"InvoiceDate";"BillingAddress";"BillingCity";"BillingState";"BillingCountry";"BillingPostalCode";"Total"
+4;14;"2009-01-06 00:00:00";"8210 111 ST NW";"Edmonton";"AB";"Canada";"T6G 2C7";8.91
+5;23;"2009-01-11 00:00:00";"69 Salem Street";"Boston";"MA";"USA";"2113";13.86
+8;40;"2009-02-01 00:00:00";"8, Rue Hanovre";"Paris";"";"France";"75002";1.98
+9;42;"2009-02-02 00:00:00";"9, Place Louis Barthou";"Bordeaux";"";"France";"33000";3.96
+10;46;"2009-02-03 00:00:00";"3 Chatham Street";"Dublin";"Dublin";"Ireland";"";5.94
+11;52;"2009-02-06 00:00:00";"202 Hoxton Street";"London";"";"United Kingdom";"N1 5LH";8.91
+13;16;"2009-02-19 00:00:00";"1600 Amphitheatre Parkway";"Mountain View";"CA";"USA";"94043-1351";0.99
+14;17;"2009-03-04 00:00:00";"1 Microsoft Way";"Redmond";"WA";"USA";"98052-8300";1.98
+15;19;"2009-03-04 00:00:00";"1 Infinite Loop";"Cupertino";"CA";"USA";"95014";1.98
+16;21;"2009-03-05 00:00:00";"801 W 4th Street";"Reno";"NV";"USA";"89503";3.96
+17;25;"2009-03-06 00:00:00";"319 N. Frances Street";"Madison";"WI";"USA";"53703";5.94
+18;31;"2009-03-09 00:00:00";"194A Chain Lake Drive";"Halifax";"NS";"Canada";"B3S 1C5";8.91
+19;40;"2009-03-14 00:00:00";"8, Rue Hanovre";"Paris";"";"France";"75002";13.86
+20;54;"2009-03-22 00:00:00";"110 Raeburn Pl";"Edinburgh";"";"United Kingdom";"EH4 1HH";0.99
+21;55;"2009-04-04 00:00:00";"421 Bourke Street";"Sidney";"NSW";"Australia";"2010";1.98
+22;57;"2009-04-04 00:00:00";"Calle Lira, 198";"Santiago";"";"Chile";"";1.98
+23;59;"2009-04-05 00:00:00";"3,Raj Bhavan Road";"Bangalore";"";"India";"560001";3.96
+26;19;"2009-04-14 00:00:00";"1 Infinite Loop";"Cupertino";"CA";"USA";"95014";13.86
+27;33;"2009-04-22 00:00:00";"5112 48 Street";"Yellowknife";"NT";"Canada";"X1A 1N6";0.99
+31;42;"2009-05-07 00:00:00";"9, Place Louis Barthou";"Bordeaux";"";"France";"33000";5.94
+32;48;"2009-05-10 00:00:00";"Lijnbaansgracht 120bg";"Amsterdam";"VV";"Netherlands";"1016";8.91
+33;57;"2009-05-15 00:00:00";"Calle Lira, 198";"Santiago";"";"Chile";"";13.86
+36;15;"2009-06-05 00:00:00";"700 W Pender Street";"Vancouver";"BC";"Canada";"V6C 1G8";1.98
+37;17;"2009-06-06 00:00:00";"1 Microsoft Way";"Redmond";"WA";"USA";"98052-8300";3.96
+38;21;"2009-06-07 00:00:00";"801 W 4th Street";"Reno";"NV";"USA";"89503";5.94
+39;27;"2009-06-10 00:00:00";"1033 N Park Ave";"Tucson";"AZ";"USA";"85719";8.91
+42;51;"2009-07-06 00:00:00";"Celsiusg. 9";"Stockholm";"";"Sweden";"11230";1.98
+43;53;"2009-07-06 00:00:00";"113 Lupus St";"London";"";"United Kingdom";"SW1V 3EN";1.98
+44;55;"2009-07-07 00:00:00";"421 Bourke Street";"Sidney";"NSW";"Australia";"2010";3.96
+45;59;"2009-07-08 00:00:00";"3,Raj Bhavan Road";"Bangalore";"";"India";"560001";5.94
+47;15;"2009-07-16 00:00:00";"700 W Pender Street";"Vancouver";"BC";"Canada";"V6C 1G8";13.86
+48;29;"2009-07-24 00:00:00";"796 Dundas Street West";"Toronto";"ON";"Canada";"M6J 1V1";0.99
+49;30;"2009-08-06 00:00:00";"230 Elgin Street";"Ottawa";"ON";"Canada";"K2P 1L7";1.98
+50;32;"2009-08-06 00:00:00";"696 Osborne Street";"Winnipeg";"MB";"Canada";"R3L 2B9";1.98
+54;53;"2009-08-16 00:00:00";"113 Lupus St";"London";"";"United Kingdom";"SW1V 3EN";13.86
+59;17;"2009-09-08 00:00:00";"1 Microsoft Way";"Redmond";"WA";"USA";"98052-8300";5.94
+60;23;"2009-09-11 00:00:00";"69 Salem Street";"Boston";"MA";"USA";"2113";8.91
+61;32;"2009-09-16 00:00:00";"696 Osborne Street";"Winnipeg";"MB";"Canada";"R3L 2B9";13.86
+62;46;"2009-09-24 00:00:00";"3 Chatham Street";"Dublin";"Dublin";"Ireland";"";0.99
+63;47;"2009-10-07 00:00:00";"Via Degli Scipioni, 43";"Rome";"RM";"Italy";"00192";1.98
+65;51;"2009-10-08 00:00:00";"Celsiusg. 9";"Stockholm";"";"Sweden";"11230";3.96
+66;55;"2009-10-09 00:00:00";"421 Bourke Street";"Sidney";"NSW";"Australia";"2010";5.94
+69;25;"2009-10-25 00:00:00";"319 N. Frances Street";"Madison";"WI";"USA";"53703";0.99
+70;26;"2009-11-07 00:00:00";"2211 W Berry Street";"Fort Worth";"TX";"USA";"76110";1.98
+71;28;"2009-11-07 00:00:00";"302 S 700 E";"Salt Lake City";"UT";"USA";"84102";1.98
+72;30;"2009-11-08 00:00:00";"230 Elgin Street";"Ottawa";"ON";"Canada";"K2P 1L7";3.96
+74;40;"2009-11-12 00:00:00";"8, Rue Hanovre";"Paris";"";"France";"75002";8.91
+81;19;"2009-12-13 00:00:00";"1 Infinite Loop";"Cupertino";"CA";"USA";"95014";8.91
+82;28;"2009-12-18 00:00:00";"302 S 700 E";"Salt Lake City";"UT";"USA";"84102";13.86
+83;42;"2009-12-26 00:00:00";"9, Place Louis Barthou";"Bordeaux";"";"France";"33000";0.99
+84;43;"2010-01-08 00:00:00";"68, Rue Jouvence";"Dijon";"";"France";"21000";1.98
+86;47;"2010-01-09 00:00:00";"Via Degli Scipioni, 43";"Rome";"RM";"Italy";"00192";3.96
+87;51;"2010-01-10 00:00:00";"Celsiusg. 9";"Stockholm";"";"Sweden";"11230";6.94
+88;57;"2010-01-13 00:00:00";"Calle Lira, 198";"Santiago";"";"Chile";"";17.91
+90;21;"2010-01-26 00:00:00";"801 W 4th Street";"Reno";"NV";"USA";"89503";0.99
+91;22;"2010-02-08 00:00:00";"120 S Orange Ave";"Orlando";"FL";"USA";"32801";1.98
+92;24;"2010-02-08 00:00:00";"162 E Superior Street";"Chicago";"IL";"USA";"60611";1.98
+93;26;"2010-02-09 00:00:00";"2211 W Berry Street";"Fort Worth";"TX";"USA";"76110";3.96
+94;30;"2010-02-10 00:00:00";"230 Elgin Street";"Ottawa";"ON";"Canada";"K2P 1L7";5.94
+97;59;"2010-02-26 00:00:00";"3,Raj Bhavan Road";"Bangalore";"";"India";"560001";1.99
+102;15;"2010-03-16 00:00:00";"700 W Pender Street";"Vancouver";"BC";"Canada";"V6C 1G8";9.91
+103;24;"2010-03-21 00:00:00";"162 E Superior Street";"Chicago";"IL";"USA";"60611";15.86
+105;39;"2010-04-11 00:00:00";"4, Rue Milton";"Paris";"";"France";"75009";1.98
+106;41;"2010-04-11 00:00:00";"11, Place Bellecour";"Lyon";"";"France";"69002";1.98
+107;43;"2010-04-12 00:00:00";"68, Rue Jouvence";"Dijon";"";"France";"21000";3.96
+108;47;"2010-04-13 00:00:00";"Via Degli Scipioni, 43";"Rome";"RM";"Italy";"00192";5.94
+109;53;"2010-04-16 00:00:00";"113 Lupus St";"London";"";"United Kingdom";"SW1V 3EN";8.91
+111;17;"2010-04-29 00:00:00";"1 Microsoft Way";"Redmond";"WA";"USA";"98052-8300";0.99
+112;18;"2010-05-12 00:00:00";"627 Broadway";"New York";"NY";"USA";"10012-2612";1.98
+113;20;"2010-05-12 00:00:00";"541 Del Medio Avenue";"Mountain View";"CA";"USA";"94040-111";1.98
+114;22;"2010-05-13 00:00:00";"120 S Orange Ave";"Orlando";"FL";"USA";"32801";3.96
+115;26;"2010-05-14 00:00:00";"2211 W Berry Street";"Fort Worth";"TX";"USA";"76110";5.94
+116;32;"2010-05-17 00:00:00";"696 Osborne Street";"Winnipeg";"MB";"Canada";"R3L 2B9";8.91
+117;41;"2010-05-22 00:00:00";"11, Place Bellecour";"Lyon";"";"France";"69002";13.86
+118;55;"2010-05-30 00:00:00";"421 Bourke Street";"Sidney";"NSW";"Australia";"2010";0.99
+120;58;"2010-06-12 00:00:00";"12,Community Centre";"Delhi";"";"India";"110017";1.98
+124;20;"2010-06-22 00:00:00";"541 Del Medio Avenue";"Mountain View";"CA";"USA";"94040-111";13.86
+128;39;"2010-07-14 00:00:00";"4, Rue Milton";"Paris";"";"France";"75009";3.96
+129;43;"2010-07-15 00:00:00";"68, Rue Jouvence";"Dijon";"";"France";"21000";5.94
+131;58;"2010-07-23 00:00:00";"12,Community Centre";"Delhi";"";"India";"110017";13.86
+133;14;"2010-08-13 00:00:00";"8210 111 ST NW";"Edmonton";"AB";"Canada";"T6G 2C7";1.98
+134;16;"2010-08-13 00:00:00";"1600 Amphitheatre Parkway";"Mountain View";"CA";"USA";"94043-1351";1.98
+135;18;"2010-08-14 00:00:00";"627 Broadway";"New York";"NY";"USA";"10012-2612";3.96
+136;22;"2010-08-15 00:00:00";"120 S Orange Ave";"Orlando";"FL";"USA";"32801";5.94
+137;28;"2010-08-18 00:00:00";"302 S 700 E";"Salt Lake City";"UT";"USA";"84102";8.91
+139;51;"2010-08-31 00:00:00";"Celsiusg. 9";"Stockholm";"";"Sweden";"11230";0.99
+140;52;"2010-09-13 00:00:00";"202 Hoxton Street";"London";"";"United Kingdom";"N1 5LH";1.98
+141;54;"2010-09-13 00:00:00";"110 Raeburn Pl";"Edinburgh";"";"United Kingdom";"EH4 1HH";1.98
+145;16;"2010-09-23 00:00:00";"1600 Amphitheatre Parkway";"Mountain View";"CA";"USA";"94043-1351";13.86
+146;30;"2010-10-01 00:00:00";"230 Elgin Street";"Ottawa";"ON";"Canada";"K2P 1L7";0.99
+147;31;"2010-10-14 00:00:00";"194A Chain Lake Drive";"Halifax";"NS";"Canada";"B3S 1C5";1.98
+148;33;"2010-10-14 00:00:00";"5112 48 Street";"Yellowknife";"NT";"Canada";"X1A 1N6";1.98
+150;39;"2010-10-16 00:00:00";"4, Rue Milton";"Paris";"";"France";"75009";5.94
+152;54;"2010-10-24 00:00:00";"110 Raeburn Pl";"Edinburgh";"";"United Kingdom";"EH4 1HH";13.86
+156;14;"2010-11-15 00:00:00";"8210 111 ST NW";"Edmonton";"AB";"Canada";"T6G 2C7";3.96
+157;18;"2010-11-16 00:00:00";"627 Broadway";"New York";"NY";"USA";"10012-2612";5.94
+158;24;"2010-11-19 00:00:00";"162 E Superior Street";"Chicago";"IL";"USA";"60611";8.91
+159;33;"2010-11-24 00:00:00";"5112 48 Street";"Yellowknife";"NT";"Canada";"X1A 1N6";13.86
+160;47;"2010-12-02 00:00:00";"Via Degli Scipioni, 43";"Rome";"RM";"Italy";"00192";0.99
+161;48;"2010-12-15 00:00:00";"Lijnbaansgracht 120bg";"Amsterdam";"VV";"Netherlands";"1016";1.98
+163;52;"2010-12-16 00:00:00";"202 Hoxton Street";"London";"";"United Kingdom";"N1 5LH";3.96
+167;26;"2011-01-02 00:00:00";"2211 W Berry Street";"Fort Worth";"TX";"USA";"76110";0.99
+168;27;"2011-01-15 00:00:00";"1033 N Park Ave";"Tucson";"AZ";"USA";"85719";1.98
+169;29;"2011-01-15 00:00:00";"796 Dundas Street West";"Toronto";"ON";"Canada";"M6J 1V1";1.98
+170;31;"2011-01-16 00:00:00";"194A Chain Lake Drive";"Halifax";"NS";"Canada";"B3S 1C5";3.96
+172;41;"2011-01-20 00:00:00";"11, Place Bellecour";"Lyon";"";"France";"69002";8.91
+178;14;"2011-02-17 00:00:00";"8210 111 ST NW";"Edmonton";"AB";"Canada";"T6G 2C7";5.94
+179;20;"2011-02-20 00:00:00";"541 Del Medio Avenue";"Mountain View";"CA";"USA";"94040-111";8.91
+180;29;"2011-02-25 00:00:00";"796 Dundas Street West";"Toronto";"ON";"Canada";"M6J 1V1";13.86
+181;43;"2011-03-05 00:00:00";"68, Rue Jouvence";"Dijon";"";"France";"21000";0.99
+183;46;"2011-03-18 00:00:00";"3 Chatham Street";"Dublin";"Dublin";"Ireland";"";1.98
+184;48;"2011-03-19 00:00:00";"Lijnbaansgracht 120bg";"Amsterdam";"VV";"Netherlands";"1016";3.96
+185;52;"2011-03-20 00:00:00";"202 Hoxton Street";"London";"";"United Kingdom";"N1 5LH";5.94
+186;58;"2011-03-23 00:00:00";"12,Community Centre";"Delhi";"";"India";"110017";8.91
+188;22;"2011-04-05 00:00:00";"120 S Orange Ave";"Orlando";"FL";"USA";"32801";0.99
+189;23;"2011-04-18 00:00:00";"69 Salem Street";"Boston";"MA";"USA";"2113";1.98
+190;25;"2011-04-18 00:00:00";"319 N. Frances Street";"Madison";"WI";"USA";"53703";1.98
+191;27;"2011-04-19 00:00:00";"1033 N Park Ave";"Tucson";"AZ";"USA";"85719";3.96
+192;31;"2011-04-20 00:00:00";"194A Chain Lake Drive";"Halifax";"NS";"Canada";"B3S 1C5";5.94
+194;46;"2011-04-28 00:00:00";"3 Chatham Street";"Dublin";"Dublin";"Ireland";"";21.86
+200;16;"2011-05-24 00:00:00";"1600 Amphitheatre Parkway";"Mountain View";"CA";"USA";"94043-1351";8.91
+201;25;"2011-05-29 00:00:00";"319 N. Frances Street";"Madison";"WI";"USA";"53703";18.86
+202;39;"2011-06-06 00:00:00";"4, Rue Milton";"Paris";"";"France";"75009";1.99
+203;40;"2011-06-19 00:00:00";"8, Rue Hanovre";"Paris";"";"France";"75002";2.98
+204;42;"2011-06-19 00:00:00";"9, Place Louis Barthou";"Bordeaux";"";"France";"33000";3.98
+206;48;"2011-06-21 00:00:00";"Lijnbaansgracht 120bg";"Amsterdam";"VV";"Netherlands";"1016";8.94
+207;54;"2011-06-24 00:00:00";"110 Raeburn Pl";"Edinburgh";"";"United Kingdom";"EH4 1HH";8.91
+209;18;"2011-07-07 00:00:00";"627 Broadway";"New York";"NY";"USA";"10012-2612";0.99
+210;19;"2011-07-20 00:00:00";"1 Infinite Loop";"Cupertino";"CA";"USA";"95014";1.98
+211;21;"2011-07-20 00:00:00";"801 W 4th Street";"Reno";"NV";"USA";"89503";1.98
+212;23;"2011-07-21 00:00:00";"69 Salem Street";"Boston";"MA";"USA";"2113";3.96
+213;27;"2011-07-22 00:00:00";"1033 N Park Ave";"Tucson";"AZ";"USA";"85719";5.94
+214;33;"2011-07-25 00:00:00";"5112 48 Street";"Yellowknife";"NT";"Canada";"X1A 1N6";8.91
+215;42;"2011-07-30 00:00:00";"9, Place Louis Barthou";"Bordeaux";"";"France";"33000";13.86
+217;57;"2011-08-20 00:00:00";"Calle Lira, 198";"Santiago";"";"Chile";"";1.98
+218;59;"2011-08-20 00:00:00";"3,Raj Bhavan Road";"Bangalore";"";"India";"560001";1.98
+222;21;"2011-08-30 00:00:00";"801 W 4th Street";"Reno";"NV";"USA";"89503";13.86
+226;40;"2011-09-21 00:00:00";"8, Rue Hanovre";"Paris";"";"France";"75002";3.96
+229;59;"2011-09-30 00:00:00";"3,Raj Bhavan Road";"Bangalore";"";"India";"560001";13.86
+230;14;"2011-10-08 00:00:00";"8210 111 ST NW";"Edmonton";"AB";"Canada";"T6G 2C7";0.99
+231;15;"2011-10-21 00:00:00";"700 W Pender Street";"Vancouver";"BC";"Canada";"V6C 1G8";1.98
+232;17;"2011-10-21 00:00:00";"1 Microsoft Way";"Redmond";"WA";"USA";"98052-8300";1.98
+233;19;"2011-10-22 00:00:00";"1 Infinite Loop";"Cupertino";"CA";"USA";"95014";3.96
+234;23;"2011-10-23 00:00:00";"69 Salem Street";"Boston";"MA";"USA";"2113";5.94
+235;29;"2011-10-26 00:00:00";"796 Dundas Street West";"Toronto";"ON";"Canada";"M6J 1V1";8.91
+237;52;"2011-11-08 00:00:00";"202 Hoxton Street";"London";"";"United Kingdom";"N1 5LH";0.99
+238;53;"2011-11-21 00:00:00";"113 Lupus St";"London";"";"United Kingdom";"SW1V 3EN";1.98
+239;55;"2011-11-21 00:00:00";"421 Bourke Street";"Sidney";"NSW";"Australia";"2010";1.98
+240;57;"2011-11-22 00:00:00";"Calle Lira, 198";"Santiago";"";"Chile";"";3.96
+243;17;"2011-12-01 00:00:00";"1 Microsoft Way";"Redmond";"WA";"USA";"98052-8300";13.86
+244;31;"2011-12-09 00:00:00";"194A Chain Lake Drive";"Halifax";"NS";"Canada";"B3S 1C5";0.99
+245;32;"2011-12-22 00:00:00";"696 Osborne Street";"Winnipeg";"MB";"Canada";"R3L 2B9";1.98
+248;40;"2011-12-24 00:00:00";"8, Rue Hanovre";"Paris";"";"France";"75002";5.94
+249;46;"2011-12-27 00:00:00";"3 Chatham Street";"Dublin";"Dublin";"Ireland";"";8.91
+250;55;"2012-01-01 00:00:00";"421 Bourke Street";"Sidney";"NSW";"Australia";"2010";13.86
+254;15;"2012-01-23 00:00:00";"700 W Pender Street";"Vancouver";"BC";"Canada";"V6C 1G8";3.96
+255;19;"2012-01-24 00:00:00";"1 Infinite Loop";"Cupertino";"CA";"USA";"95014";5.94
+256;25;"2012-01-27 00:00:00";"319 N. Frances Street";"Madison";"WI";"USA";"53703";8.91
+258;48;"2012-02-09 00:00:00";"Lijnbaansgracht 120bg";"Amsterdam";"VV";"Netherlands";"1016";0.99
+260;51;"2012-02-22 00:00:00";"Celsiusg. 9";"Stockholm";"";"Sweden";"11230";1.98
+261;53;"2012-02-23 00:00:00";"113 Lupus St";"London";"";"United Kingdom";"SW1V 3EN";3.96
+262;57;"2012-02-24 00:00:00";"Calle Lira, 198";"Santiago";"";"Chile";"";5.94
+265;27;"2012-03-11 00:00:00";"1033 N Park Ave";"Tucson";"AZ";"USA";"85719";0.99
+266;28;"2012-03-24 00:00:00";"302 S 700 E";"Salt Lake City";"UT";"USA";"84102";1.98
+267;30;"2012-03-24 00:00:00";"230 Elgin Street";"Ottawa";"ON";"Canada";"K2P 1L7";1.98
+268;32;"2012-03-25 00:00:00";"696 Osborne Street";"Winnipeg";"MB";"Canada";"R3L 2B9";3.96
+270;42;"2012-03-29 00:00:00";"9, Place Louis Barthou";"Bordeaux";"";"France";"33000";8.91
+271;51;"2012-04-03 00:00:00";"Celsiusg. 9";"Stockholm";"";"Sweden";"11230";13.86
+276;15;"2012-04-26 00:00:00";"700 W Pender Street";"Vancouver";"BC";"Canada";"V6C 1G8";5.94
+277;21;"2012-04-29 00:00:00";"801 W 4th Street";"Reno";"NV";"USA";"89503";8.91
+278;30;"2012-05-04 00:00:00";"230 Elgin Street";"Ottawa";"ON";"Canada";"K2P 1L7";13.86
+281;47;"2012-05-25 00:00:00";"Via Degli Scipioni, 43";"Rome";"RM";"Italy";"00192";1.98
+283;53;"2012-05-27 00:00:00";"113 Lupus St";"London";"";"United Kingdom";"SW1V 3EN";5.94
+284;59;"2012-05-30 00:00:00";"3,Raj Bhavan Road";"Bangalore";"";"India";"560001";8.91
+286;23;"2012-06-12 00:00:00";"69 Salem Street";"Boston";"MA";"USA";"2113";0.99
+287;24;"2012-06-25 00:00:00";"162 E Superior Street";"Chicago";"IL";"USA";"60611";1.98
+288;26;"2012-06-25 00:00:00";"2211 W Berry Street";"Fort Worth";"TX";"USA";"76110";1.98
+289;28;"2012-06-26 00:00:00";"302 S 700 E";"Salt Lake City";"UT";"USA";"84102";3.96
+290;32;"2012-06-27 00:00:00";"696 Osborne Street";"Winnipeg";"MB";"Canada";"R3L 2B9";5.94
+292;47;"2012-07-05 00:00:00";"Via Degli Scipioni, 43";"Rome";"RM";"Italy";"00192";13.86
+298;17;"2012-07-31 00:00:00";"1 Microsoft Way";"Redmond";"WA";"USA";"98052-8300";10.91
+299;26;"2012-08-05 00:00:00";"2211 W Berry Street";"Fort Worth";"TX";"USA";"76110";23.86
+300;40;"2012-08-13 00:00:00";"8, Rue Hanovre";"Paris";"";"France";"75002";0.99
+301;41;"2012-08-26 00:00:00";"11, Place Bellecour";"Lyon";"";"France";"69002";1.98
+302;43;"2012-08-26 00:00:00";"68, Rue Jouvence";"Dijon";"";"France";"21000";1.98
+305;55;"2012-08-31 00:00:00";"421 Bourke Street";"Sidney";"NSW";"Australia";"2010";8.91
+307;19;"2012-09-13 00:00:00";"1 Infinite Loop";"Cupertino";"CA";"USA";"95014";1.99
+308;20;"2012-09-26 00:00:00";"541 Del Medio Avenue";"Mountain View";"CA";"USA";"94040-111";3.98
+309;22;"2012-09-26 00:00:00";"120 S Orange Ave";"Orlando";"FL";"USA";"32801";3.98
+310;24;"2012-09-27 00:00:00";"162 E Superior Street";"Chicago";"IL";"USA";"60611";7.96
+311;28;"2012-09-28 00:00:00";"302 S 700 E";"Salt Lake City";"UT";"USA";"84102";11.94
+313;43;"2012-10-06 00:00:00";"68, Rue Jouvence";"Dijon";"";"France";"21000";16.86
+314;57;"2012-10-14 00:00:00";"Calle Lira, 198";"Santiago";"";"Chile";"";0.99
+315;58;"2012-10-27 00:00:00";"12,Community Centre";"Delhi";"";"India";"110017";1.98
+320;22;"2012-11-06 00:00:00";"120 S Orange Ave";"Orlando";"FL";"USA";"32801";13.86
+323;39;"2012-11-27 00:00:00";"4, Rue Milton";"Paris";"";"France";"75009";1.98
+324;41;"2012-11-28 00:00:00";"11, Place Bellecour";"Lyon";"";"France";"69002";3.96
+326;51;"2012-12-02 00:00:00";"Celsiusg. 9";"Stockholm";"";"Sweden";"11230";8.91
+328;15;"2012-12-15 00:00:00";"700 W Pender Street";"Vancouver";"BC";"Canada";"V6C 1G8";0.99
+329;16;"2012-12-28 00:00:00";"1600 Amphitheatre Parkway";"Mountain View";"CA";"USA";"94043-1351";1.98
+330;18;"2012-12-28 00:00:00";"627 Broadway";"New York";"NY";"USA";"10012-2612";1.98
+331;20;"2012-12-29 00:00:00";"541 Del Medio Avenue";"Mountain View";"CA";"USA";"94040-111";3.96
+332;24;"2012-12-30 00:00:00";"162 E Superior Street";"Chicago";"IL";"USA";"60611";5.94
+333;30;"2013-01-02 00:00:00";"230 Elgin Street";"Ottawa";"ON";"Canada";"K2P 1L7";8.91
+334;39;"2013-01-07 00:00:00";"4, Rue Milton";"Paris";"";"France";"75009";13.86
+335;53;"2013-01-15 00:00:00";"113 Lupus St";"London";"";"United Kingdom";"SW1V 3EN";0.99
+336;54;"2013-01-28 00:00:00";"110 Raeburn Pl";"Edinburgh";"";"United Kingdom";"EH4 1HH";1.98
+338;58;"2013-01-29 00:00:00";"12,Community Centre";"Delhi";"";"India";"110017";3.96
+341;18;"2013-02-07 00:00:00";"627 Broadway";"New York";"NY";"USA";"10012-2612";13.86
+342;32;"2013-02-15 00:00:00";"696 Osborne Street";"Winnipeg";"MB";"Canada";"R3L 2B9";0.99
+343;33;"2013-02-28 00:00:00";"5112 48 Street";"Yellowknife";"NT";"Canada";"X1A 1N6";1.98
+346;41;"2013-03-02 00:00:00";"11, Place Bellecour";"Lyon";"";"France";"69002";5.94
+347;47;"2013-03-05 00:00:00";"Via Degli Scipioni, 43";"Rome";"RM";"Italy";"00192";8.91
+351;14;"2013-03-31 00:00:00";"8210 111 ST NW";"Edmonton";"AB";"Canada";"T6G 2C7";1.98
+352;16;"2013-04-01 00:00:00";"1600 Amphitheatre Parkway";"Mountain View";"CA";"USA";"94043-1351";3.96
+353;20;"2013-04-02 00:00:00";"541 Del Medio Avenue";"Mountain View";"CA";"USA";"94040-111";5.94
+354;26;"2013-04-05 00:00:00";"2211 W Berry Street";"Fort Worth";"TX";"USA";"76110";8.91
+358;52;"2013-05-01 00:00:00";"202 Hoxton Street";"London";"";"United Kingdom";"N1 5LH";1.98
+359;54;"2013-05-02 00:00:00";"110 Raeburn Pl";"Edinburgh";"";"United Kingdom";"EH4 1HH";3.96
+360;58;"2013-05-03 00:00:00";"12,Community Centre";"Delhi";"";"India";"110017";5.94
+362;14;"2013-05-11 00:00:00";"8210 111 ST NW";"Edmonton";"AB";"Canada";"T6G 2C7";13.86
+363;28;"2013-05-19 00:00:00";"302 S 700 E";"Salt Lake City";"UT";"USA";"84102";0.99
+364;29;"2013-06-01 00:00:00";"796 Dundas Street West";"Toronto";"ON";"Canada";"M6J 1V1";1.98
+365;31;"2013-06-01 00:00:00";"194A Chain Lake Drive";"Halifax";"NS";"Canada";"B3S 1C5";1.98
+366;33;"2013-06-02 00:00:00";"5112 48 Street";"Yellowknife";"NT";"Canada";"X1A 1N6";3.96
+368;43;"2013-06-06 00:00:00";"68, Rue Jouvence";"Dijon";"";"France";"21000";8.91
+369;52;"2013-06-11 00:00:00";"202 Hoxton Street";"London";"";"United Kingdom";"N1 5LH";13.86
+374;16;"2013-07-04 00:00:00";"1600 Amphitheatre Parkway";"Mountain View";"CA";"USA";"94043-1351";5.94
+375;22;"2013-07-07 00:00:00";"120 S Orange Ave";"Orlando";"FL";"USA";"32801";8.91
+376;31;"2013-07-12 00:00:00";"194A Chain Lake Drive";"Halifax";"NS";"Canada";"B3S 1C5";13.86
+378;46;"2013-08-02 00:00:00";"3 Chatham Street";"Dublin";"Dublin";"Ireland";"";1.98
+379;48;"2013-08-02 00:00:00";"Lijnbaansgracht 120bg";"Amsterdam";"VV";"Netherlands";"1016";1.98
+381;54;"2013-08-04 00:00:00";"110 Raeburn Pl";"Edinburgh";"";"United Kingdom";"EH4 1HH";5.94
+384;24;"2013-08-20 00:00:00";"162 E Superior Street";"Chicago";"IL";"USA";"60611";0.99
+385;25;"2013-09-02 00:00:00";"319 N. Frances Street";"Madison";"WI";"USA";"53703";1.98
+386;27;"2013-09-02 00:00:00";"1033 N Park Ave";"Tucson";"AZ";"USA";"85719";1.98
+387;29;"2013-09-03 00:00:00";"796 Dundas Street West";"Toronto";"ON";"Canada";"M6J 1V1";3.96
+388;33;"2013-09-04 00:00:00";"5112 48 Street";"Yellowknife";"NT";"Canada";"X1A 1N6";5.94
+389;39;"2013-09-07 00:00:00";"4, Rue Milton";"Paris";"";"France";"75009";8.91
+390;48;"2013-09-12 00:00:00";"Lijnbaansgracht 120bg";"Amsterdam";"VV";"Netherlands";"1016";13.86
+396;18;"2013-10-08 00:00:00";"627 Broadway";"New York";"NY";"USA";"10012-2612";8.91
+397;27;"2013-10-13 00:00:00";"1033 N Park Ave";"Tucson";"AZ";"USA";"85719";13.86
+398;41;"2013-10-21 00:00:00";"11, Place Bellecour";"Lyon";"";"France";"69002";0.99
+399;42;"2013-11-03 00:00:00";"9, Place Louis Barthou";"Bordeaux";"";"France";"33000";1.98
+401;46;"2013-11-04 00:00:00";"3 Chatham Street";"Dublin";"Dublin";"Ireland";"";3.96
+405;20;"2013-11-21 00:00:00";"541 Del Medio Avenue";"Mountain View";"CA";"USA";"94040-111";0.99
+406;21;"2013-12-04 00:00:00";"801 W 4th Street";"Reno";"NV";"USA";"89503";1.98
+407;23;"2013-12-04 00:00:00";"69 Salem Street";"Boston";"MA";"USA";"2113";1.98
+408;25;"2013-12-05 00:00:00";"319 N. Frances Street";"Madison";"WI";"USA";"53703";3.96
+409;29;"2013-12-06 00:00:00";"796 Dundas Street West";"Toronto";"ON";"Canada";"M6J 1V1";5.94
+412;58;"2013-12-22 00:00:00";"12,Community Centre";"Delhi";"";"India";"110017";1.99
